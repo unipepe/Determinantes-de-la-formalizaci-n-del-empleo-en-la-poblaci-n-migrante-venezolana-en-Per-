@@ -1,5 +1,12 @@
 # Determinantes-de-la-formalizacion-del-empleo-en-la-poblacion-migrante-venezolana-en-Peru-
+### DICCIONARIO DE DATOS
+Variable dependiente: Condición Laboral Formal se refiere a empleos en empresas registradas y legalmente establecidas, con contratos escritos, beneficios laborales y cumplimiento de obligaciones fiscales y legales. Los trabajadores suelen tener estabilidad y acceso a programas de desarrollo.
 
+Condición Laboral Informal se relaciona con empleos en el sector no registrado, sin contratos formales ni beneficios. Los empleadores pueden no cumplir con regulaciones y los trabajadores enfrentan inseguridad laboral y bajos ingresos.
+
+Para el caso a trabajar, se definirá si el ciudadano venezolano tiene un trabajo formal si es que firmó contrato laboral o emitió comprobantes de pago dentro de su situación laboral en el Perú.
+
+### Variables Explicativas:
 ### 1-sexo (variable binaria)  
 
 Según Mabel Burín, el sexo se refiere al componente biológico en conjunto con las características fenotípicas de los cuerpos, dando lugar así a hombre o mujer (Burín 1996: 63).   
@@ -16,12 +23,25 @@ BURÍN, M. (1996): Género y psicoanálisis: subjetividades femeninas vulnerable
 
 El estatus legal en asuntos migratorios como el caso trabajado, refiere a la condición legal de una persona en un país diferente al suyo de origen. La situación legal migratoria varía según el país y sus leyes migratorias, tanto como del contexto. En el Perú, según el consulado en cuanto a la crisis venezolana, los ciudadanos venezolanos necesitan contar con carné de extranjería o documento equivalente, requieren pasaporte y visa para ingresar al Perú. Es decir, pasa por un control migratorio según las leyes peruanas. Para el trabajo a realizar, se trabajará la variable en relación a si se cuenta con documentos de este tipo mencionados anteriormente o si no se cuenta con ellos para medir la situación legal del migrante.
 
+### 3-Tenencia de permiso migratorio (binaria)
 
-| Variable                    | Pregunta | Descripción                                     | Valores                                                                                                                                               |
-|-----------------------------|----------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Género                      | 204      | Género de la persona                            | 1 = Hombre, 2 = Mujer                                                                                                                                |
-| Estatus legal               | 307      | Tipo de permiso migratorio vigente              | 1 = CPP, 2 = CMH, 3 = C. Extranjería PTP, 4 = C. Extranjería vulnerabilidad, 5 = C. Extranjería familiar residente, 6 = C. Extranjería trabajador, 7 = C. Extranjería refugiado, 8 = Otro c. extranjería, 9 = PTP, 10 = PTP vencido, 11 = Visa humanitaria prorrogada, 12 = Turista vigente, 13 = DNI, 14 = Otro permiso, 15 = No tiene permiso |
-| Tenencia permiso migratorio | 307      | Si tiene permiso migratorio vigente             | 1 = Sí tiene permiso, 0 = No tiene permiso                                                                                                             |
-| Discriminación              | 701      | Si se ha sentido discriminado en Perú           | 1 = Sí, 0 = No                                                                                                                                       |
-| Edad                        | 205      | Edad en años cumplidos                          | Valores: 0 - 130                                                                                                                                     |
-| Cambios de vivienda         | 111      | Número de cambios de vivienda en los últimos 6 meses | Valores: 0 - 20                                                                                                                                       |
+En referencia a un permiso migratorio, este es definido como un documento de carácter legal que emite un gobierno/ autoridad en materia migratoria para permitir el ingreso de una persona extranjera al territorio del país por un tiempo específico y bajo ciertas condiciones. 
+
+Según la OIM, este es considerado un documento otorgado por la autoridad competente que permite la autorización del ingreso de un extranjero por actos o servicios o ya sea bajo condiciones que sean reguladas según las leyes migratorias de cada país.En el contexto migratorio es común la referencia a los permisos de residencia y a los permisos de trabajo.
+
+2006 Organización Internacional para las Migraciones (OIM) https://publications.iom.int/system/files/pdf/iml_7_sp.pdf
+
+Para el caso, la variable será trabajada en función de "Sí tiene permiso migratorio" y "no cuenta con permiso migratorio"
+
+### Discriminación por ser persona venezolana desde que llegó al Perú (binaria)
+
+En el caso según la base de datos, la variable se relaciona con la pregunta: USTED, ¿SE HA SENTIDO DISCRIMINADO DESDE QUE LLEGÓ A PERÚ?; es decir la percepción de haber sido discriminado o no.
+
+La discriminación se refiere a la acción de tratar despectivamente o prejuiciosamente a una persona o a un grupo de personas de manera desigual o injusta basándose en características específicas, como la raza, el género, la orientación sexual, la religión, la discapacidad, la edad u otras características personales o grupales. Esta trata desigual puede manifestarse en diversos aspectos de la vida, como el acceso a oportunidades educativas, laborales, de vivienda, atención médica y participación en la sociedad en general.
+
+### Variables de control:
+
+- Edad (continua): la edad en años cumplidos de cada miembro del hogar, en la variable hay meses para quienes tienen menos de un año. Para el caso se considerará los migrantes venezolanos de 18 a más años
+
+- Número de cambios de vivienda en los últimos 6 meses (continua): El número de cambios de vivienda de los migrantes venezolanos en los últimos seis meses registrados según la encuesta actualizada en el 2022.
+
