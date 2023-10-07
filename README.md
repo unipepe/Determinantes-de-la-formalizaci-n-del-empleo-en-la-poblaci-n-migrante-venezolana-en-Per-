@@ -11,6 +11,12 @@
 ##### BURÍN, M. (1996): Género y psicoanálisis: subjetividades femeninas vulnerables. Género, psicoanálisis, subjetividad (M. Burín, E. Dío Bleichmar, comps.), Paidós, Buenos Aires: 100-139.
 
 
+### 2-Estatus legal (variable categórica)
+
+
+El estatus legal en asuntos migratorios como el caso trabajado, refiere a la condición legal de una persona en un país diferente al suyo de origen. La situación legal migratoria varía según el país y sus leyes migratorias, tanto como del contexto. En el Perú, según el consulado en cuanto a la crisis venezolana, los ciudadanos venezolanos necesitan contar con carné de extranjería o documento equivalente, requieren pasaporte y visa para ingresar al Perú. Es decir, pasa por un control migratorio según las leyes peruanas. Para el trabajo a realizar, se trabajará la variable en relación a si se cuenta con documentos de este tipo mencionados anteriormente o si no se cuenta con ellos para medir la situación legal del migrante.
+
+
 | Variable                    | Pregunta | Descripción                                     | Valores                                                                                                                                               |
 |-----------------------------|----------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Género                      | 204      | Género de la persona                            | 1 = Hombre, 2 = Mujer                                                                                                                                |
