@@ -1,7 +1,7 @@
 # Determinantes-de-la-formalizacion-del-empleo-en-la-poblacion-migrante-venezolana-en-Peru-
-# DICCIONARIO DE DATOS
+# Diccionario de Datos
 
-# Variable dependiente
+# Variable Dependiente
 ## ¿HA FIRMADO ALGÚN CONTRATO LABORAL O BRINDÓ ALGÚN COMPROBANTE DE PAGO POR SUS SERVICIOS?
 
 Archivo: ENPOVE2022_V_600_Empleo.csv 
@@ -14,7 +14,7 @@ Respuestas: SÍ/NO
 
 Indicador: Dicotómico
 
-# Variables explicativas
+# Variables Explicativas
 
 ## 1. Sexo
 El sexo de cada miembro del hogar.
@@ -90,7 +90,7 @@ Escala: Continua
 Indicador: Numérica discreta
 
 
-# INTERPRETACIÓN
+# Descripción de cada variable
 Variable dependiente: Condición Laboral Formal se refiere a empleos en empresas registradas y legalmente establecidas, con contratos escritos, beneficios laborales y cumplimiento de obligaciones fiscales y legales. Los trabajadores suelen tener estabilidad y acceso a programas de desarrollo.
 
 Condición Laboral Informal se relaciona con empleos en el sector no registrado, sin contratos formales ni beneficios. Los empleadores pueden no cumplir con regulaciones y los trabajadores enfrentan inseguridad laboral y bajos ingresos.
@@ -109,10 +109,8 @@ Para el caso, la variable nos indicará el sexo de cada migrante venezolano regi
 BURÍN, M. (1996): Género y psicoanálisis: subjetividades femeninas vulnerables. Género, psicoanálisis, subjetividad (M. Burín, E. Dío Bleichmar, comps.), Paidós, Buenos Aires: 100-139.
 
 
-## 2. Estatus legal (variable categórica)
-
-
-El estatus legal en asuntos migratorios como el caso trabajado, refiere a la condición legal de una persona en un país diferente al suyo de origen. La situación legal migratoria varía según el país y sus leyes migratorias, tanto como del contexto. En el Perú, según el consulado en cuanto a la crisis venezolana, los ciudadanos venezolanos necesitan contar con carné de extranjería o documento equivalente, requieren pasaporte y visa para ingresar al Perú. Es decir, pasa por un control migratorio según las leyes peruanas. Para el trabajo a realizar, se trabajará la variable en relación a si se cuenta con documentos de este tipo mencionados anteriormente o si no se cuenta con ellos para medir la situación legal del migrante.
+## 2. ¿REGISTRÓ SU ENTRADA EN UN PUESTO DE CONTROL MIGRATORIO? (Variable binaria)
+Esta pregunta tiene como objetivo conocer si el migrante venezolano ingresó a Perú por un paso formal registrando su entrada en migraciones, o si por el contrario ingresó por una vía irregular evadiendo los controles.
 
 ## 3. Tenencia de permiso migratorio (binaria)
 
@@ -132,7 +130,7 @@ La discriminación se refiere a la acción de tratar despectivamente o prejuicio
 
 ## Variables de control:
 
-## Edad (continua): la edad en años cumplidos de cada miembro del hogar, en la variable hay meses para quienes tienen menos de un año. Para el caso se considerará los migrantes venezolanos de 18 a más años
+## Edad (continua): la edad en años cumplidos de cada miembro del hogar. Para el caso se considerará los migrantes venezolanos de 18 a más años
 
 ## Número de cambios de vivienda en los últimos 6 meses (continua): El número de cambios de vivienda de los migrantes venezolanos en los últimos seis meses registrados según la encuesta actualizada en el 2022.
 
