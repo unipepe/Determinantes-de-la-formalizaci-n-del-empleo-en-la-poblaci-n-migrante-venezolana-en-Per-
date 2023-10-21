@@ -1,5 +1,96 @@
 # Determinantes-de-la-formalizacion-del-empleo-en-la-poblacion-migrante-venezolana-en-Peru-
 ### DICCIONARIO DE DATOS
+
+# Variable dependiente
+## ¿HA FIRMADO ALGÚN CONTRATO LABORAL O BRINDÓ ALGÚN COMPROBANTE DE PAGO POR SUS SERVICIOS?
+
+Archivo: ENPOVE2022_V_600_Empleo.csv 
+
+Nombre de la variable: P613
+
+Escala: Binaria
+
+Respuestas: SÍ/NO
+
+Indicador: Dicotómico
+
+# Variables explicativas
+
+## 1. Sexo
+El sexo de cada miembro del hogar.
+
+Archivo: ENPOVE2022_V_200 Características de los residentes del hogar.csv
+
+Nombre de la variable: P204 
+
+Escala: Binaria
+
+Respuestas: Hombre/Mujer
+
+Indicador: Dicotómico
+
+## 2. REGISTRÓ SU ENTRADA EN UN PUESTO DE CONTROL MIGRATORIO
+
+Archivo: ENPOVE 2022_V_300 Migración I.csv
+
+Nombre de la variable: P305
+
+Escala: Binaria  
+
+Respuestas: SÍ/NO
+
+Indicador: Dicotómico
+
+## 3. Tenencia de permiso migratorio
+
+Para los fines del estudio, recodificaremos esta variable categórica en una dicotómica de "sí tiene permiso migratorio vigente" (códigos 1 al 14) y "no tiene permiso migratorio" (código 15).
+
+Archivo: ENPOVE 2022_V_300 Migración I.csv
+
+Nombre de la variable: P307 
+
+Escala: Binaria
+
+Respuestas: SÍ/NO
+
+Indicador: Dicotómico
+
+## 4. ¿Sintió discriminación por ser persona venezolana desde que llegó al Perú?
+
+Archivo: ENPOVE2022_V_700 Discriminación.csv
+
+Nombre de la variable: P701
+
+Escala: Binaria
+
+Respuestas: SÍ/NO
+
+Indicador: Dicotómico
+
+# Variables de factor
+
+## 1. Edad
+
+Archivo: ENPOVE2022_V_200 Características de los residentes del hogar.csv
+
+Nombre de la variable: P205_A
+
+Escala: Continua
+
+Indicador: Numérica discreta
+
+## 2. Número de cambios de vivienda en los últimos 6 meses
+
+Archivo: NPOVE2022_V_100 Características de la vivienda y del hogar.csv 
+
+Nombre de la variable: P111A
+
+Escala: Continua
+
+Indicador: Numérica discreta
+
+
+### INTERPRETACIÓN
 Variable dependiente: Condición Laboral Formal se refiere a empleos en empresas registradas y legalmente establecidas, con contratos escritos, beneficios laborales y cumplimiento de obligaciones fiscales y legales. Los trabajadores suelen tener estabilidad y acceso a programas de desarrollo.
 
 Condición Laboral Informal se relaciona con empleos en el sector no registrado, sin contratos formales ni beneficios. Los empleadores pueden no cumplir con regulaciones y los trabajadores enfrentan inseguridad laboral y bajos ingresos.
