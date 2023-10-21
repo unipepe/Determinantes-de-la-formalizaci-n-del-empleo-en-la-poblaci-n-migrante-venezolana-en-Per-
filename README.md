@@ -130,7 +130,7 @@ La discriminación se refiere a la acción de tratar despectivamente o prejuicio
 
 ## Variables de control:
 
-## Edad (continua): la edad en años cumplidos de cada miembro del hogar. Para el caso se considerará los migrantes venezolanos de 18 a más años
+### Edad (continua): la edad en años cumplidos de cada miembro del hogar. Para el caso se considerará los migrantes venezolanos de 18 a más años
 
-## Número de cambios de vivienda en los últimos 6 meses (continua): El número de cambios de vivienda de los migrantes venezolanos en los últimos seis meses registrados según la encuesta actualizada en el 2022.
+### Número de cambios de vivienda en los últimos 6 meses (continua): El número de cambios de vivienda de los migrantes venezolanos en los últimos seis meses registrados según la encuesta actualizada en el 2022.
 
