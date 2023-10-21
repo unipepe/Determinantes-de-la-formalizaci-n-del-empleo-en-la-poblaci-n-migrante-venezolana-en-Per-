@@ -112,6 +112,7 @@ BURÍN, M. (1996): Género y psicoanálisis: subjetividades femeninas vulnerable
 
 ## 2. ¿REGISTRÓ SU ENTRADA EN UN PUESTO DE CONTROL MIGRATORIO? (Variable binaria)
 Esta pregunta tiene como objetivo conocer si el migrante venezolano ingresó a Perú por un paso formal registrando su entrada en migraciones, o si por el contrario ingresó por una vía irregular evadiendo los controles.
+La pregunta sirve para estimar la magnitud de la inmigración irregular, conocer más del estatus legal inicial al ingresar, y caracterizar este grupo poblacional.
 
 ## 3. Tenencia de permiso migratorio (binaria)
 
