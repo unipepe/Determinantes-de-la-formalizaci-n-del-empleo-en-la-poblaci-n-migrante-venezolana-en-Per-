@@ -91,7 +91,8 @@ Indicador: Numérica discreta
 
 
 # Descripción de cada variable
-Variable dependiente: Condición Laboral Formal se refiere a empleos en empresas registradas y legalmente establecidas, con contratos escritos, beneficios laborales y cumplimiento de obligaciones fiscales y legales. Los trabajadores suelen tener estabilidad y acceso a programas de desarrollo.
+## Variable dependiente: 
+Condición Laboral Formal se refiere a empleos en empresas registradas y legalmente establecidas, con contratos escritos, beneficios laborales y cumplimiento de obligaciones fiscales y legales. Los trabajadores suelen tener estabilidad y acceso a programas de desarrollo.
 
 Condición Laboral Informal se relaciona con empleos en el sector no registrado, sin contratos formales ni beneficios. Los empleadores pueden no cumplir con regulaciones y los trabajadores enfrentan inseguridad laboral y bajos ingresos.
 
