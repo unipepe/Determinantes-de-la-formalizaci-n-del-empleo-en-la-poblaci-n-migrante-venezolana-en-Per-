@@ -67,7 +67,7 @@ Respuestas: SÍ/NO
 
 Indicador: Dicotómico
 
-# Variables de factor
+# Variables de Control
 
 ## 1. Edad
 
